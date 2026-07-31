@@ -73,6 +73,12 @@ GROUP BY
 	age)
 
 
+/*
+--------------------------------------------------------------
+3. Final Table: Adding the age and customer segmentation, and customer KPIs with other key product information
+--------------------------------------------------------------
+*/
+	
 SELECT
 	customer_key,
 	customer_number,
