@@ -75,7 +75,13 @@ GROUP BY
 	subcategory,
 	cost)
 
-
+	
+/*
+--------------------------------------------------------------
+3. Final Table: Adding the revenue segmentation and product KPIs with other key product information
+--------------------------------------------------------------
+*/
+	
 SELECT
 	product_key,
 	product_name,
